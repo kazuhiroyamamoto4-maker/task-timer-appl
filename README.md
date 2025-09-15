@@ -18,6 +18,14 @@ SQLiteによるローカル保存に対応し、オフライン環境でも利�
 
 ---
 
+## 📌 バージョン情報
+
+- 現在のバージョン：v0.3.0（プレリリース）
+- 作業時間の編集・履歴表示機能は現在非公開です
+- 今後のバージョンで段階的に公開予定です
+
+---
+
 ## 🛠 動作環境
 
 - Windows 10 / 11（.NET Framework 4.8 以上）
@@ -75,3 +83,4 @@ WorkTimer_v0.2.0.zip
 ├── System.Data.SQLite.dll.config
 ├── WorkTimerDB.db
 └── ReadMe.txt
+```
