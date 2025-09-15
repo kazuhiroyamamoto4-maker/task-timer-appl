@@ -52,6 +52,7 @@ Ms-PL ライセンスが適用される LINQ / EF6 コンポーネントは使�
 ## 📬 お問い合わせ
 
 - GitHub の [Issues](https://github.com/kazuhiroyamamoto4-maker/task-timer-appl/issues) にてご連絡ください  
+- 使い方の共有やアイデア交換は [Discussions](https://github.com/kazuhiroyamamoto4-maker/task-timer-appl/discussions) へ
 
 ---
 
