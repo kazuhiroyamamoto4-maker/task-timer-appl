@@ -14,6 +14,8 @@ SQLiteによるローカル保存に対応し、オフライン環境でも利�
 - 作業時間のAES暗号化による秘匿性確保
 - 難読化済みの実行ファイルによるセキュリティ強化
 
+![WorkTimer画面](https://github.com/kazuhiroyamamoto4-maker/task-timer-appl/blob/main/スクリーンショット%202025-09-15%20203519.png?raw=true)
+
 ---
 
 ## 🛠 動作環境
