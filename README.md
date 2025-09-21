@@ -60,7 +60,7 @@ Ms-PL ライセンスが適用される LINQ / EF6 コンポーネントは使�
 ## 👤 開発者情報
 
 - 開発者：Kazuhiro Yamamoto（個人開発）
-- GitHub：[kazuhiroyamamoto4-maker](https://github.com/kazuhiro
+- GitHub：[kazuhiroyamamoto4-maker](https://github.com/kazuhiroyamamoto4-maker)
 
 ---
 
