@@ -1,7 +1,7 @@
-# WorkTimer
+# JobTimeLogger(旧WorkTimer)
 
 作業時間を記録・管理するWindowsアプリケーションです。  
-SQLiteによるローカル保存に対応し、オフライン環境でも利用可能です。
+履歴はローカルに保存されるので、オフライン環境でも利用可能です。
 
 ---
 
@@ -10,7 +10,7 @@ SQLiteによるローカル保存に対応し、オフライン環境でも利�
 - タスクの追加・削除
 - 作業開始・終了時間の記録、編集
 - 作業履歴の表示
-- SQLiteによるローカル保存
+- れ行履歴はローカル保存
 - 作業時間のAES暗号化による秘匿性確保
 - 難読化済みの実行ファイルによるセキュリティ強化
 
@@ -21,7 +21,7 @@ SQLiteによるローカル保存に対応し、オフライン環境でも利�
 以下は「タスク時間計測」画面の例です。  
 作業開始・終了時間、作業内容が秒単位で記録され、履歴として表示されます。
 
-![WorkTimer画面](https://github.com/kazuhiroyamamoto4-maker/task-timer-appl/blob/main/スクリーンショット%202025-09-15%20203519.png?raw=true)
+<img width="781" height="386" alt="メイン画面（記録中）" src="https://github.com/user-attachments/assets/c569fd1b-73c7-4ebe-96aa-5c48c52453d9" />
 
 ---
 
@@ -35,14 +35,14 @@ SQLiteによるローカル保存に対応し、オフライン環境でも利�
 ---
 
 ## インストール方法
-1. WorkTimer_vx.x.x.zip をダウンロード
-2. zipを展開し、`WorkTimer.exe` を実行
+1. JobTimeLogger_vx.x.x.zip をダウンロード
+2. zipを展開し、`JobTimeLogger.exe` を実行
 
 ---
 
 ## 📌 バージョン情報
 
-- 現在のバージョン：v0.5.2（プレリリース）
+- 現在のバージョン：v0.5.4（プレリリース）
 - 作業時間の履歴のCSV出力機能は現在非公開です
 - 今後のバージョンで段階的に公開予定です
 
@@ -97,9 +97,9 @@ Ms-PL ライセンスが適用される LINQ / EF6 コンポーネントは使�
 ## 📦 配布ファイル構成
 
 ```plaintext
-WorkTimer_v0.2.0.zip
-├── WorkTimer.exe
-├── WorkTimer.exe.config
+JobTimeLogger_vx.x.x.zip
+├── JobTimeLogger.exe
+├── JobTimeLogger.exe.config
 ├── System.Data.SQLite.dll
 ├── System.Data.SQLite.dll.config
 ├── WorkTimerDB.db
